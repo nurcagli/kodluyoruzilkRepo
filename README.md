@@ -7,18 +7,18 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet Readm
 ## Installation
 
 Öncelikle projeyi clonelayın.
-'''
+```
 git clone https://github.com/nurcagli/kodluyoruzilkRepo.git
-'''
+```
 
 ## Usage 
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açın.
 Linux için:
-'''
+```
 cd KodluyoruzIlkRepo
 code .
-'''
+```
 
 ## Contrıbutıng
 
