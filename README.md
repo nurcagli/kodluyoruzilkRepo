@@ -11,7 +11,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet Readm
 git clone https://github.com/nurcagli/kodluyoruzilkRepo.git
 '''
 
-##Usage 
+## Usage 
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açın.
 Linux için:
